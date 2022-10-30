@@ -5,8 +5,8 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: Hello there
-    Content: Welcome
+    Title: Hello there 👋
+    Content: Welcome to my blog. I ramble about [infrastructure](/tags/infrastructure).
 
   socialIcons:
     - name: github
