@@ -1,3 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Marc Buchardt</title><link>http://marcbuch.github.io/</link><description>Recent content on Marc Buchardt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 13:00:38 +0100</lastBuildDate><atom:link href="http://marcbuch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Where To Deploy Web Applications</title><link>http://marcbuch.github.io/posts/where-to-deploy-web-applications/</link><pubDate>Sun, 30 Oct 2022 13:00:38 +0100</pubDate><guid>http://marcbuch.github.io/posts/where-to-deploy-web-applications/</guid><description>For my part, I quickly get confused with all those choices on where to deploy an app. I&amp;rsquo;ve heard a lot about Vercel (lambda), Container as a Service, Kubernetes, &amp;hellip; and want to clarify on when to use what.
-Hosting a Website Options include:
-Github Pages Netlify Vercel Render.com Cloudflare AWS / GCP Hosting a Database Hosting a database can be even more scary than picking a provider for your website &amp;amp; containers.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Marc Buchardt</title><link>http://marcbuch.github.io/</link><description>Recent content on Marc Buchardt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 13:00:38 +0100</lastBuildDate><atom:link href="http://marcbuch.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Where To Deploy Web Applications</title><link>http://marcbuch.github.io/posts/where-to-deploy-web-applications/</link><pubDate>Sun, 30 Oct 2022 13:00:38 +0100</pubDate><guid>http://marcbuch.github.io/posts/where-to-deploy-web-applications/</guid><description>&lt;p>For my part, I quickly get confused with all those choices on where to deploy an app. I&amp;rsquo;ve heard a lot about Vercel (lambda), Container as a Service, Kubernetes, &amp;hellip; and want to clarify on when to use what.&lt;/p>
+&lt;p>&lt;img loading="lazy" src="./complexity.png" alt="Web App Complexity" />
+&lt;/p>
+&lt;h2 id="hosting-a-website">Hosting a Website&lt;/h2>
+&lt;p>Options include:&lt;/p>
+&lt;ul>
+&lt;li>Github Pages&lt;/li>
+&lt;li>Netlify&lt;/li>
+&lt;li>Vercel&lt;/li>
+&lt;li>Render.com&lt;/li>
+&lt;li>Cloudflare&lt;/li>
+&lt;li>AWS / GCP&lt;/li>
+&lt;/ul>
+&lt;h2 id="hosting-a-database">Hosting a Database&lt;/h2>
+&lt;p>Hosting a database can be even more scary than picking a provider for your website &amp;amp; containers.&lt;/p></description></item></channel></rss>
